@@ -1,0 +1,46 @@
+
+.headers {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    font-weight: bold;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.chilaquilesbackground{
+    background-color: lightcoral;
+}
+
+.lasagnabackground {
+    background-color: lightseagreen;
+}
+
+.tacosbackground {
+    background-color: maroon;
+}
+
+
+.images{
+    width: 200px;
+    height: 200px;
+    margin: 0 39%;
+    display: block;
+}
+
+.center {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.bulletpoints {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.background {
+    width: 50%;
+    margin: 0 auto;
+    padding-bottom: 1%;
+}
+

@@ -1,0 +1,35 @@
+.headers {
+    text-align: center;
+    margin: 10px auto;
+    color: black;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    background-color: lightgreen;
+    width: 50%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin: 0 auto;
+  }
+
+
+.images {
+    width: 40%;
+}
+
+.textCenter {
+    text-align: center;
+    margin: 0 auto;
+    width: 15%;
+}
+
+
+.recipes {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
